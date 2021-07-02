@@ -10,4 +10,5 @@ Bei dem 3D Chart, sind die Jahre schon als Parameter standardmäßig festgelegt.
 
 Beispiel: 
 db_projekt.py -2d year life_expectancy
+
 db_projekt.py -3d gdp population_total
