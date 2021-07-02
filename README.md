@@ -5,7 +5,8 @@ Es kann mit der Anwendung ein 2D oder 3D Chart erzeugt werde.
 
 Für den 2D Chart muss der Befehl -2d und zwei Parameter eingegeben werden (year, co2_emission, population_total, gdp oder life_expectancy)
 Für den 3D Chart muss der Befehl -3d und zwei Parameter eingegeben werden (co2_emission, population_total, gdp oder life_expectancy). 
-Bei dem 3d Chart, sind die Jahre schon als Parameter vordefiniert festgelegt. 
+
+Bei dem 3D Chart, sind die Jahre schon als Parameter standardmäßig festgelegt. 
 
 Beispiel: 
 db_projekt.py -2d year life_expectancy
