@@ -13,3 +13,7 @@ Beispiel:
 db_projekt.py -2d year life_expectancy
 
 db_projekt.py -3d gdp population_total
+
+Link zu Datensatz: 
+
+https://www.kaggle.com/brendan45774/countries-life-expectancy
